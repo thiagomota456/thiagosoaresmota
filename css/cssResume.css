@@ -1,0 +1,35 @@
+a {
+  text-decoration: none;
+  color: inherit;
+  background-color: transparent;
+  cursor: grab;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:link {
+  color: black;
+}
+i {
+  padding: 4px;
+  vertical-align: middle;
+}
+.profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #333;
+  object-fit: cover;
+}
