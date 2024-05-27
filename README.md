@@ -58,6 +58,3 @@ Estagiário em Desenvolvimento de Software (Jan 2019 - Jan 2020)
 - Mantive e desenvolvi software e funcionalidades para aparelhos de raio X na área médica e de segurança.
 - Migrei um sistema .NET Framework para rodar em Linux usando Mono.
 
----
-
-Este currículo destaca suas habilidades e experiência de forma clara e profissional, apresentando uma trajetória de carreira sólida e focada em desenvolvimento web e integração de serviços.
